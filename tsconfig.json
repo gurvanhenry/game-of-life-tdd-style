@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "forceConsistentCasingInFileNames": true,
+    "noImplicitReturns": true,
+    "strict": true,
+    // "noUnusedLocals": false,
+    // "noUnusedParameters": false,
+  },
+  "include": [
+    "src/**/*",
+    "test/**/*",
+  ]
+}
